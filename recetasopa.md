@@ -4,4 +4,4 @@ Ingredientes:
 - Frijoles
 Instrucciones:
 Hervir agua...
-Añadir zanahorias y frijoles..
+Añadir zanahorias y frijoles.
